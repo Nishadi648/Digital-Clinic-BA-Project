@@ -33,7 +33,11 @@ The complete, structured **Software Requirements Specification (SRS v1.0)** is a
 | **EPIC-04** | Clinic Administration & Analytics | Daily summaries, status filtering, volume reporting |
 
 ---
+## 📋 Agile Board & Backlog (Jira)
+> Real-time Kanban board layout mapping Epics, User Stories, and workflow statuses.
 
+![Jira Kanban Board](jiradoc.png)
+---
 ## 🛠️ BA Tools & Methodologies Used
 * **Requirements Engineering:** SRS Document Preparation, Requirements Traceability
 * **Agile Scrum Framework:** Jira Epics, User Stories, Acceptance Criteria
