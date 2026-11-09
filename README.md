@@ -12,14 +12,14 @@ The **Digital Clinic Appointment & Queue Management System (DCQMS)** digitizes a
 
 ## 📑 Software Requirements Specification (SRS) Document
 The complete, structured **Software Requirements Specification (SRS v1.0)** is available in this repository:
-📄 **[Read Full SRS Document (v1.0)](docs/SRS_Digital_Clinic_v1.0.md)**
+📄 **[Read Full SRS Document (v1.0)](docs/SRS_Digital_Clinic.md)**
 
 ### Key Highlights of the SRS:
 * **Scope Definition:** Outpatient appointment scheduling, queue token generation, SMS alerts, and admin analytics (Excludes EMR, telemedicine, and payments).
 * **User Classes:** Patients, Receptionists, Doctors, and Clinic Administrators (RBAC framework).
 * **Functional Requirements:** 10 Traceable Functional Requirements (`FR-01` to `FR-10`).
 * **Non-Functional Requirements:** Security (TLS 1.3, AES-256), Usability, Performance (<2.0s load), and Availability (99.5%).
-* **Agile Jira Backlog:** 4 Epics & User Stories written in **Gherkin Syntax** (`Given-When-Then`).
+* **Agile Jira Backlog:** 4 Epics & User Stories structured for backlog management.
 
 ---
 
@@ -36,6 +36,6 @@ The complete, structured **Software Requirements Specification (SRS v1.0)** is a
 
 ## 🛠️ BA Tools & Methodologies Used
 * **Requirements Engineering:** SRS Document Preparation, Requirements Traceability
-* **Agile Scrum Framework:** Jira Epics, User Stories, Acceptance Criteria (Gherkin format)
-* **Modeling & Process Design:** UML Use Case Diagrams, Activity/BPMN Workflows
-* **Tools:** Jira, Draw.io / Lucidchart, MS Word, Markdown
+* **Agile Scrum Framework:** Jira Epics, User Stories, Acceptance Criteria
+* **Modeling & Process Design:** UML Use Case Diagrams
+* **Tools:** Jira, Draw.io, MS Word
